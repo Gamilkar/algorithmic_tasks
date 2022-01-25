@@ -1,4 +1,4 @@
-from solutions.log_monitoring import log_monitoring
+from log_monitoring.log_monitoring import log_monitoring
 
 
 def test_log():
