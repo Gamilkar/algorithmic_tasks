@@ -1,7 +1,7 @@
 import datetime
 
 
-def log_monitoring(t, e, log):
+def l_m(t, e, log):
     interval = datetime.timedelta(seconds=t)
     result = -1
     error_times = []
