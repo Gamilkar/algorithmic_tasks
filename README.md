@@ -1,0 +1,1 @@
+[Мониторинг логов/Log monitoring](https://github.com/Gamilkar/algorithmic_tasks/tree/main/log_monitoring)
